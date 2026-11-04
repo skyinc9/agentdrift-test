@@ -1,3 +1,3 @@
 # Cursor Rules
-Always check `src/auth.ts` before modifying user permissions.
-Verify code using `npm run lint`.
+Always check `src/auth/index.ts` before modifying user permissions.
+Verify code using `npm run test`.
